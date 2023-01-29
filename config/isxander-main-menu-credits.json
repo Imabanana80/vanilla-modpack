@@ -1,0 +1,36 @@
+{
+  "main_menu": {
+    "top_left": [],
+    "top_right": [],
+    "bottom_left": [
+      {
+        "text": "Banana's Better Vanilla Experience v0.0.1",
+        "italic": false,
+        "color": "gold",
+        "clickEvent": {
+          "action": "open_url",
+          "value": "https://modrinth.com/modpack/banana"
+        }
+      }
+    ],
+    "bottom_right": [],
+    "mod_blacklist": []
+  },
+  "pause_menu": {
+    "top_left": [],
+    "top_right": [],
+    "bottom_left": [
+      {
+        "text": "Banana's Better Vanilla Experience v0.0.1",
+        "italic": false,
+        "color": "gold",
+        "clickEvent": {
+          "action": "open_url",
+          "value": "https://modrinth.com/modpack/banana"
+        }
+      }
+    ],
+    "bottom_right": [],
+    "mod_blacklist": []
+  }
+}
