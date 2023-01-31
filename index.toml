@@ -154,6 +154,11 @@ hash = "aebbadc9d8acd5b4cb24a279f7cffd216d7a8d39abf5ae9dacf259bb56d82195"
 metafile = true
 
 [[files]]
+file = "mods/graphutil.pw.toml"
+hash = "5fd9edc4c52855e511429009b72ffc1089c214cad3e7e80e7837ca7f78fd0855"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "1955a695f7ca2ecfc2a923d94897677ba0def8bd8532543f4d635a8498b4ec2d"
 metafile = true
@@ -229,6 +234,11 @@ hash = "4316869a722c334adbb9ff8833078830a33c3552cdb7c4f2e253e3d6472bfcd5"
 metafile = true
 
 [[files]]
+file = "mods/recursiveresources.pw.toml"
+hash = "83b1695ad59a950475f21754bb86b14b5a0f6502cef508ca2904de85df578af1"
+metafile = true
+
+[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "b2e3be698473bfb3f08865a11e74c9ee8d47239ac72a79d60acc1ee381722a50"
 metafile = true
@@ -299,6 +309,11 @@ hash = "24d6f5ebd589f979a77dcce6be9a3e96e5b36c3e23ea1e20bb0a55736f78c898"
 metafile = true
 
 [[files]]
+file = "mods/wavey-capes.pw.toml"
+hash = "0e87c2ff28e24ef808b475af9e45452cce6216c624523bf756acce1fde23ac2c"
+metafile = true
+
+[[files]]
 file = "mods/yacl.pw.toml"
 hash = "80bab11e8d1438ec93695050f087dc2f9d0ae1d2523a17b8236af7029f14119e"
 metafile = true
@@ -312,3 +327,7 @@ metafile = true
 file = "mods/zoomify.pw.toml"
 hash = "df9929f0a90f0c54a870ed182c0543ce579d07b84089d2fec6131917c53b5bab"
 metafile = true
+
+[[files]]
+file = "resourecepacks/§6Banana§eFault §7v0.1.0 §8[1.19.2].zip"
+hash = "fc8dd3a09b623c14625b49f109168d8bff4539e70d2ad50f50b97ac5e068dba2"
