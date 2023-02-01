@@ -4,6 +4,6 @@
   "capeStyle": "SMOOTH",
   "capeMovement": "BASIC_SIMULATION_3D",
   "gravity": 32,
-  "heightMultiplier": 6,
+  "heightMultiplier": 4,
   "straveMultiplier": 2
 }

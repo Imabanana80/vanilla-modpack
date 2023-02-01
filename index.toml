@@ -6,7 +6,7 @@ hash = "dc57070fa742850fb8a17f7ad6dc0e8a713323e27e2cbaf82da59c2283e42731"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "71f987bd6c5c985ff94cbcc3b836d8e46ac6300961058e1c3120022e55d97a7e"
+hash = "dfdcde1db2cd6431b3a6ebad4455dd1c099a740ce513b6b7cc6fdab908d28d88"
 
 [[files]]
 file = "config/yosbr/config/appleskin.json5"
@@ -34,11 +34,11 @@ hash = "ea2820399d91db4dae84b60c35f112888c44d2125b3b8308915694e1c1e6b76f"
 
 [[files]]
 file = "config/yosbr/config/boostedbrightness.json"
-hash = "0cd86ab83e27045a2d41b7c799a9351224cd359bc89be684214482cee6929f06"
+hash = "8169be0860aad250715a7fb925ef13350342cf84cc0e878c068a3ed9e236e5e1"
 
 [[files]]
 file = "config/yosbr/config/c2me.toml"
-hash = "e93982f0cbbc16b14d1183563b8ccd6149c28ce1364c60524d42384b44fc3971"
+hash = "5483f499da4cadc3228d9f4a8146d2348e85a160945bf821b8c0f57d4e76a6a4"
 
 [[files]]
 file = "config/yosbr/config/capes.json5"
@@ -86,7 +86,7 @@ hash = "20b7a23dd1e9e0adf1a869ee3e9ce96c5fc036b73666eb9bfd267f737854a846"
 
 [[files]]
 file = "config/yosbr/config/fabric/indigo-renderer.properties"
-hash = "f80e3d9845998323abd5f7ad80f7ad7ac9e7707161518c665191a18bbc6dabfb"
+hash = "6a461147bb6238e98a5c02ae163f3dd01710080184343fd25741bc81ba10f374"
 
 [[files]]
 file = "config/yosbr/config/ferritecore.mixin.properties"
@@ -110,19 +110,19 @@ hash = "d001d4dca47027dffb96288efa9748417e90fd809bd689b5cdbd3ae8ac589697"
 
 [[files]]
 file = "config/yosbr/config/indium-renderer.properties"
-hash = "84626c5b50601d625cdd7644bfdb8ab904750cc22d9ff604ceef618a7595c240"
+hash = "3d74e950b518fe4aeab24436e6c2e8af908800a33a3564a00e2703f9d051824b"
 
 [[files]]
 file = "config/yosbr/config/iris.properties"
-hash = "a5b140343519a6db20314e7dbcb535b7ece2a0878704f32e3ed0d4fddf011383"
+hash = "1c7c800bacc356699aaa0e41eb1e727750bcaf6ef7d4235f127cd83c2ca15fd2"
 
 [[files]]
 file = "config/yosbr/config/isxander-main-menu-credits.json"
-hash = "9fc9a70991770244fded0bbcbae34032eef4ab5437f9652daeecd845ac7badc1"
+hash = "71f987bd6c5c985ff94cbcc3b836d8e46ac6300961058e1c3120022e55d97a7e"
 
 [[files]]
 file = "config/yosbr/config/lambdynlights.toml"
-hash = "90cb263291dbfca0e1289d3e3e6162b06de948f8e7c071c5a2e1d18bdcd15b93"
+hash = "1a9bfd616d18cde4d37c11f944e5fac770e13407e212ec49630d837a69f92a47"
 
 [[files]]
 file = "config/yosbr/config/lithium.properties"
@@ -170,7 +170,7 @@ hash = "8e25c7d1b862b4f7106940f9f9df89210c6782b132d024bf6c25eabfeecb685a"
 
 [[files]]
 file = "config/yosbr/config/sodium-extra-options.json"
-hash = "52b8629f2ab5471dd73f06b8e4fc8477e667e8dff250765c9713b880cad3a8ba"
+hash = "9035e1801e45a69cd4900946596ff2826588c1112c29ca1615fdd86ff3e39fed"
 
 [[files]]
 file = "config/yosbr/config/sodium-extra.properties"
@@ -182,7 +182,7 @@ hash = "051558518a6f3350fadb1546346d937e7f78f69834a075bf91b59921f151cc26"
 
 [[files]]
 file = "config/yosbr/config/sodium-options.json"
-hash = "a096ef4072d63f49f5694d39b84a0a5294987c30f43d8f345623e3d889fbf1e8"
+hash = "174671cb9f048d4cf970ed90199e4f1b98f62302e73d5367f86ebb275c61df73"
 
 [[files]]
 file = "config/yosbr/config/totemcounter.toml"
@@ -198,7 +198,7 @@ hash = "70db40d1204d3d21d0ae694fb23bf1ffe8e1a7ec59e6b299a9e901721a902555"
 
 [[files]]
 file = "config/yosbr/config/vmp.properties"
-hash = "8eb2a834a066038d73821f9eb9b5fd499c291252159b0daa5c057570c1d808c5"
+hash = "c43ead0fd4700a30234857cd5257bbd1ba41bfee514f783f10370d8b24ccba71"
 
 [[files]]
 file = "config/yosbr/config/voicechat/username-cache.json"
@@ -206,19 +206,23 @@ hash = "00e3e8b2ec2c321d0e1878c488c90d02986c08d42e220624dc9015827aafec98"
 
 [[files]]
 file = "config/yosbr/config/voicechat/voicechat-client.properties"
-hash = "b3d41abc37d7f6f7f1920be0601169d929f3cde59e061eef69679e1ffea37ee6"
+hash = "c76623eedae96996030b8e76d7fa2f215b235803c81b82a518beeac9eb04a4ce"
 
 [[files]]
 file = "config/yosbr/config/voicechat/voicechat-server.properties"
-hash = "4569ad37fbce85a846f2adc996094a458fa8ff1bce45037aaf57b0687346e81a"
+hash = "33ded8348d8fd7cfc3d78d934ebf184b759eae5c6bacc4a707f94ccab79562dd"
 
 [[files]]
 file = "config/yosbr/config/waveycapes.json"
-hash = "85dc7413a4a336c060628fb6603b9d2c0e81550e0d5c7f02e5b2b3368824c574"
+hash = "dbedc472ac80b09e36aed86209ec16ae0027fddf2f16ea910f2e64d7807d81d2"
 
 [[files]]
 file = "config/yosbr/config/zoomify.json"
 hash = "8d61a625f65493f3e4f40f5e49cd0d5405b6e105b2d9c005950f78dbfb2095fa"
+
+[[files]]
+file = "config/yosbr/hotbar.nbt"
+hash = "e0e8f42849e4ee8a30fe8f50fe0ad0ae9b5ce8b201ece118202ab61462cf5d48"
 
 [[files]]
 file = "config/yosbr/options.amecsapi.txt"
@@ -226,7 +230,11 @@ hash = "a8e2d5e40c317ff9d12f5814a798a6569ecb419d959ec1a77f585255a903d091"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "564589224d5a46b01293755230243788e110a7aa7e050b004781449c3d92e254"
+hash = "8bdb1712902036d64662d985c6dbe965d5b5d46dcb7024a4d83e5e663d8d80c2"
+
+[[files]]
+file = "config/yosbr/servers.dat"
+hash = "71f4fc4d4e5c475fde3d614b0ba5c634b8427f9041595222f653f3a3cdce477a"
 
 [[files]]
 file = "mods/appleskin.pw.toml"
@@ -434,6 +442,11 @@ hash = "09eb7db3ca7778d91ad66845e41b6b4814655fe375a05d4a69528c74b4f1c8af"
 metafile = true
 
 [[files]]
+file = "mods/morechathistory.pw.toml"
+hash = "d1558ff187abe468110fef11eee834aa3c03df732e706ac16e221425b538da4d"
+metafile = true
+
+[[files]]
 file = "mods/moreculling.pw.toml"
 hash = "ad5006e0af565aa9e862112703e3867b291233a0ffcc56495387319d70ac402e"
 metafile = true
@@ -444,8 +457,18 @@ hash = "8bad8c9de76befcc2d3335022417b8a89983f2c4ea8dc547911d7104367f626a"
 metafile = true
 
 [[files]]
+file = "mods/multiconnect.pw.toml"
+hash = "fb37c5d83d6827c4b3cf2b5e7dc01b90b86374527ed05f68e8c01f030f265212"
+metafile = true
+
+[[files]]
 file = "mods/no_fog.pw.toml"
 hash = "d835fe1648f3b36c53c3091d36331c7c659fb6a3a11d03d940457d3e6688a6a0"
+metafile = true
+
+[[files]]
+file = "mods/playerhealthindicators.pw.toml"
+hash = "38034cfd89e460d31851ada1b1ec345ea430281d0cbd54767d1920f14a7167e8"
 metafile = true
 
 [[files]]
@@ -506,6 +529,11 @@ metafile = true
 [[files]]
 file = "mods/technomodel.pw.toml"
 hash = "b78f0d34ba266d92edbebf3940331a1d81458dc50b5c2790916612e465218dd9"
+metafile = true
+
+[[files]]
+file = "mods/tooltipfix.pw.toml"
+hash = "4f782435d758d3cfd57ba49e2a4994006722d42307ef74ef3d35a1704f9ed5c4"
 metafile = true
 
 [[files]]

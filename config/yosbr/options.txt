@@ -39,7 +39,7 @@ biomeBlendRadius:2
 renderClouds:"false"
 resourcePacks:["vanilla","Fabric Mods","black_icons","file/§6Banana§eFault §7v0.1.0 §8[1.19.2].zip"]
 incompatibleResourcePacks:[]
-lastServer:
+lastServer:mc.cloaksplus.com
 lang:en_us
 soundDevice:""
 chatVisibility:0
@@ -67,10 +67,10 @@ tutorialStep:none
 mouseWheelSensitivity:1.0
 rawMouseInput:true
 glDebugVerbosity:1
-skipMultiplayerWarning:false
+skipMultiplayerWarning:true
 skipRealms32bitWarning:false
 hideMatchedNames:true
-joinedFirstServer:false
+joinedFirstServer:true
 hideBundleTutorial:false
 syncChunkWrites:true
 showAutosaveIndicator:true
