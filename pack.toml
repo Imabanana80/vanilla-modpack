@@ -1,6 +1,6 @@
 name = "Banana's Better Vanilla Experience"
 author = "Imabanana80"
-version = "0.2.0"
+version = "0.2.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
