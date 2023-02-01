@@ -6,7 +6,7 @@ hash = "dc57070fa742850fb8a17f7ad6dc0e8a713323e27e2cbaf82da59c2283e42731"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "33345a1d46a70e379a847b28aa70e26828abebb85405ed0551428f5c63497419"
+hash = "c52bce685d5256ff885d1922f0dbc91a252497030d622d4f50ee73b9cd722b5b"
 
 [[files]]
 file = "config/yosbr/config/appleskin.json5"
@@ -86,7 +86,7 @@ hash = "20b7a23dd1e9e0adf1a869ee3e9ce96c5fc036b73666eb9bfd267f737854a846"
 
 [[files]]
 file = "config/yosbr/config/fabric/indigo-renderer.properties"
-hash = "6a461147bb6238e98a5c02ae163f3dd01710080184343fd25741bc81ba10f374"
+hash = "1f65ca2be5ba05c2c35acebdce1425b7d0ebc42c48e70c3d401ee3225c9b0857"
 
 [[files]]
 file = "config/yosbr/config/ferritecore.mixin.properties"
@@ -105,20 +105,28 @@ file = "config/yosbr/config/graphutil.json"
 hash = "ac62d7284e4a3f3eee693e4b31af0dee3ce255646756ce1ddeaef4c83a97ece8"
 
 [[files]]
+file = "config/yosbr/config/healthindicator.toml"
+hash = "10c27b0e9f0c57d4b9710db4c74755310b117c610795fe75a4bc70cfd5b69853"
+
+[[files]]
 file = "config/yosbr/config/immediatelyfast.json"
 hash = "d001d4dca47027dffb96288efa9748417e90fd809bd689b5cdbd3ae8ac589697"
 
 [[files]]
 file = "config/yosbr/config/indium-renderer.properties"
-hash = "3d74e950b518fe4aeab24436e6c2e8af908800a33a3564a00e2703f9d051824b"
+hash = "e1af7cdf7115e1d6db804abbecc7584ab8092b7db94e8a84ca585d199ab2da39"
+
+[[files]]
+file = "config/yosbr/config/inventoryhud.json"
+hash = "3898ab2427d9cbdd1c727e9236a6b7fa5d4d507e2a8be65b8a17e74a8f4435f3"
 
 [[files]]
 file = "config/yosbr/config/iris.properties"
-hash = "1c7c800bacc356699aaa0e41eb1e727750bcaf6ef7d4235f127cd83c2ca15fd2"
+hash = "da08391488c69cc1e71ca27179a7f7b349ebb4bfe8d15d1befc24f75536a6e67"
 
 [[files]]
 file = "config/yosbr/config/isxander-main-menu-credits.json"
-hash = "71f987bd6c5c985ff94cbcc3b836d8e46ac6300961058e1c3120022e55d97a7e"
+hash = "33345a1d46a70e379a847b28aa70e26828abebb85405ed0551428f5c63497419"
 
 [[files]]
 file = "config/yosbr/config/lambdynlights.toml"
@@ -134,7 +142,7 @@ hash = "6b52769b3358f87b591871a4444f3cef8124a9dced0da1755f18db2f47adf4f3"
 
 [[files]]
 file = "config/yosbr/config/modmenu.json"
-hash = "4ffe2675a38999bdf25b6d374dcc4a4fd6646df75978f3ba96483a411e895068"
+hash = "503f96151dab202359895d267084c5ca81604cf9a3455446c20a5c0c69ec7cdb"
 
 [[files]]
 file = "config/yosbr/config/moreculling.toml"
@@ -145,8 +153,36 @@ file = "config/yosbr/config/mousewheelie.hjson"
 hash = "d276fb680145aa561af326818644bb1b1b2dcfa8188d89bad7842eed741270ba"
 
 [[files]]
+file = "config/yosbr/config/multiconnect/config.json"
+hash = "c85e5ade25c35d0cff10cd02d70cd0a1a2032ed70e45d6e1c5c3eb542d62ba63"
+
+[[files]]
 file = "config/yosbr/config/no_fog.json"
 hash = "df86b787420b6df24c210d79f5765be0f12e1463354a30d239a9ebf9d091f31d"
+
+[[files]]
+file = "config/yosbr/config/physicsmod/physics_animations_client_config.json"
+hash = "d8a629b25da461374926b02b6649ed90154cb1bb6ab7e5208f519b5bcf29b08b"
+
+[[files]]
+file = "config/yosbr/config/physicsmod/physics_blocks_client_config.json"
+hash = "8101dc02eeefe487e7d3d5b3c67d97d2c61762a7fffc1ea2695416a14118ae16"
+
+[[files]]
+file = "config/yosbr/config/physicsmod/physics_client_config.json"
+hash = "7c4b52a4112098c0f949c9972bf38abb9fb633816a3e4a4b890ca09617c59a60"
+
+[[files]]
+file = "config/yosbr/config/physicsmod/physics_mobs_client_config.json"
+hash = "752775debf65550a6a11ae2cc27c6f5c649cb8ac833a496e5c222d484bc63c14"
+
+[[files]]
+file = "config/yosbr/config/physicsmod/physics_server_config.json"
+hash = "e6c1234596884339e56c93f3e52ae9b646c70bd245ca301775de4317a8f8928a"
+
+[[files]]
+file = "config/yosbr/config/physicsmod/physics_vines_client_config.json"
+hash = "477b33e521ef3cac0b2edf8cd18c2d560cdf29cf91e1c508891354492e2c2199"
 
 [[files]]
 file = "config/yosbr/config/quick_elytra.config.properties"
@@ -198,7 +234,7 @@ hash = "70db40d1204d3d21d0ae694fb23bf1ffe8e1a7ec59e6b299a9e901721a902555"
 
 [[files]]
 file = "config/yosbr/config/vmp.properties"
-hash = "c43ead0fd4700a30234857cd5257bbd1ba41bfee514f783f10370d8b24ccba71"
+hash = "bbc573b6bdd0e02cd4f9f264bb72a8ddf49cff9807b6c63124c7e7599aa9d0f7"
 
 [[files]]
 file = "config/yosbr/config/voicechat/username-cache.json"
@@ -226,11 +262,11 @@ hash = "e0e8f42849e4ee8a30fe8f50fe0ad0ae9b5ce8b201ece118202ab61462cf5d48"
 
 [[files]]
 file = "config/yosbr/options.amecsapi.txt"
-hash = "a8e2d5e40c317ff9d12f5814a798a6569ecb419d959ec1a77f585255a903d091"
+hash = "8584d3301ba8c1c8a1e7d26007d5dd1831aa5a5bf018f75ada454b4af943cff0"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "8bdb1712902036d64662d985c6dbe965d5b5d46dcb7024a4d83e5e663d8d80c2"
+hash = "a1f63d7a70664bc36ba14188273d125dfe746992178cd557f4c516aa555b2be4"
 
 [[files]]
 file = "config/yosbr/servers.dat"
@@ -387,6 +423,11 @@ hash = "5fd9edc4c52855e511429009b72ffc1089c214cad3e7e80e7837ca7f78fd0855"
 metafile = true
 
 [[files]]
+file = "mods/healthindicator.pw.toml"
+hash = "fb5467aad8f3042e73bc005bd7290cab31b4b620f2a7d38b04acc38ea89fd618"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "1955a695f7ca2ecfc2a923d94897677ba0def8bd8532543f4d635a8498b4ec2d"
 metafile = true
@@ -394,6 +435,11 @@ metafile = true
 [[files]]
 file = "mods/indium.pw.toml"
 hash = "e8168531c092676d47cac3657bfc525f096f11ff5372ce6e322ad57778b81635"
+metafile = true
+
+[[files]]
+file = "mods/inventory-hud-forge.pw.toml"
+hash = "7fffcce3f4ed60a994d0acc0c18ebcf87fa10778a13913ba23340847acbea581"
 metafile = true
 
 [[files]]
@@ -574,3 +620,19 @@ metafile = true
 [[files]]
 file = "resourcepacks/§6Banana§eFault §7v0.1.0 §8[1.19.2].zip"
 hash = "fc8dd3a09b623c14625b49f109168d8bff4539e70d2ad50f50b97ac5e068dba2"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r1.4.zip"
+hash = "592c12605d03c345e15698d6020a892c865f56b3bcb117bcc9e41358f7df6584"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r1.4.zip.txt"
+hash = "9c37aa5d7f8fa8dd0137676d31adebb7f7ed2034b68ae44c1b63dfff0e7ce349"
+
+[[files]]
+file = "shaderpacks/SEUS_PTGI_HRR_3.zip"
+hash = "6bd4ee3489de276095022f9662d48fdd99318019079d3ee945eff0a9ab6f7d87"
+
+[[files]]
+file = "shaderpacks/Tea_V1.5.7.zip"
+hash = "483b61e26328a8a0f8409072ab0aa73f30bc66a0cbacd447622591b91fa452c6"
