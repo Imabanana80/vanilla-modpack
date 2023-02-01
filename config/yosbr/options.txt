@@ -114,6 +114,7 @@ key_key.hotbar.9:key.mouse.5
 key_key.betterhurtcam.toggle:key.keyboard.unknown
 key_key.betterhurtcam.plus:key.keyboard.unknown
 key_key.betterhurtcam.minus:key.keyboard.unknown
+key_key.healthindicators.toggle:key.keyboard.unknown
 key_totemcounter.reset:key.keyboard.unknown
 key_blanket-client-tweaks.keys.rotateMinecartKey:key.keyboard.unknown
 key_key.boosted-brightness.next:key.keyboard.b

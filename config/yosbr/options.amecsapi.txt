@@ -35,6 +35,7 @@ key_modifiers_key.hotbar.9:0,0,0
 key_modifiers_key.betterhurtcam.toggle:0,0,0
 key_modifiers_key.betterhurtcam.plus:0,0,0
 key_modifiers_key.betterhurtcam.minus:0,0,0
+key_modifiers_key.healthindicators.toggle:0,0,0
 key_modifiers_totemcounter.reset:0,0,0
 key_modifiers_blanket-client-tweaks.keys.rotateMinecartKey:0,0,0
 key_modifiers_key.boosted-brightness.next:0,0,0

@@ -1,12 +1,12 @@
 name = "Banana's Better Vanilla Experience"
 author = "Imabanana80"
-version = "0.2.1"
+version = "1.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "7299b1853ae96744f6fcc6e67cf19009ebc383da008da645bffa019c9a6fb08a"
+hash = "1daa2956c23c1be82d65515840f3d5e498ea14db09d4672bf53c842f4f444e4f"
 
 [versions]
 fabric = "0.14.13"

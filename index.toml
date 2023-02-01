@@ -6,7 +6,7 @@ hash = "dc57070fa742850fb8a17f7ad6dc0e8a713323e27e2cbaf82da59c2283e42731"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "dfdcde1db2cd6431b3a6ebad4455dd1c099a740ce513b6b7cc6fdab908d28d88"
+hash = "33345a1d46a70e379a847b28aa70e26828abebb85405ed0551428f5c63497419"
 
 [[files]]
 file = "config/yosbr/config/appleskin.json5"
@@ -439,11 +439,6 @@ metafile = true
 [[files]]
 file = "mods/modmenu.pw.toml"
 hash = "09eb7db3ca7778d91ad66845e41b6b4814655fe375a05d4a69528c74b4f1c8af"
-metafile = true
-
-[[files]]
-file = "mods/morechathistory.pw.toml"
-hash = "d1558ff187abe468110fef11eee834aa3c03df732e706ac16e221425b538da4d"
 metafile = true
 
 [[files]]

@@ -1,0 +1,5 @@
+{
+  "allowOldUnsignedChat": true,
+  "enablePacketRecorder": true,
+  "debugKey": false
+}
