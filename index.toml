@@ -6,7 +6,227 @@ hash = "dc57070fa742850fb8a17f7ad6dc0e8a713323e27e2cbaf82da59c2283e42731"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "8c16360c3df72ae10324a3d91adb0bd0af5aa494b39d47447b24594a182407ab"
+hash = "71f987bd6c5c985ff94cbcc3b836d8e46ac6300961058e1c3120022e55d97a7e"
+
+[[files]]
+file = "config/yosbr/config/appleskin.json5"
+hash = "ae87f2d1b38dfd4b1e0767dfeb539261deaaf4fd2eb73692afcbaac7147855b9"
+
+[[files]]
+file = "config/yosbr/config/armorchroma.json"
+hash = "47e0871679b7922b43bf68e4e431366024df4101472997c942947ddda4f386e8"
+
+[[files]]
+file = "config/yosbr/config/betterhurtcam.toml"
+hash = "a7ca5f39a19ce12d6229b26e41a8e36cc2eac7c4e2bec3da8aed8278e246ac78"
+
+[[files]]
+file = "config/yosbr/config/betterpingdisplay.json"
+hash = "d9b413555ca6e7add44924c507e5ec5dc8db060f9b04fdfefcd505e61faec0e0"
+
+[[files]]
+file = "config/yosbr/config/blanket_client-fixes.json"
+hash = "bd28e24b4a7c691676d8e6d77b4a3d712952bf8fd21167eb780ee1af639a0201"
+
+[[files]]
+file = "config/yosbr/config/blur.json"
+hash = "ea2820399d91db4dae84b60c35f112888c44d2125b3b8308915694e1c1e6b76f"
+
+[[files]]
+file = "config/yosbr/config/boostedbrightness.json"
+hash = "0cd86ab83e27045a2d41b7c799a9351224cd359bc89be684214482cee6929f06"
+
+[[files]]
+file = "config/yosbr/config/c2me.toml"
+hash = "e93982f0cbbc16b14d1183563b8ccd6149c28ce1364c60524d42384b44fc3971"
+
+[[files]]
+file = "config/yosbr/config/capes.json5"
+hash = "566c88938c1a9ad02bfcb8f0f6c80c477e888af0c968f3b44cd9f25565dd030d"
+
+[[files]]
+file = "config/yosbr/config/citresewn-defaults.json"
+hash = "0b333b0bf9a0e573fa14f81610a621b488d5277c9e8f8c6a4c81e6a6cb37e482"
+
+[[files]]
+file = "config/yosbr/config/citresewn.json"
+hash = "1ea03400477ac2075d61ae58cfc573bc78ce954507d090ab69547de279918656"
+
+[[files]]
+file = "config/yosbr/config/continuity.json"
+hash = "00267a602028cbb037dcb0b5f803db31bed284235ca9c1ea189ad4179311a2f4"
+
+[[files]]
+file = "config/yosbr/config/cull-less-leaves.json"
+hash = "6bc92f3695f35c601c2adfa1f51e9f616df379288f2a260fd1f4011c5bad50ee"
+
+[[files]]
+file = "config/yosbr/config/debugify-descriptions.json"
+hash = "65072f57da757e7be4fb30886dfee97337a8af068439d0cbc6683b437befeeae"
+
+[[files]]
+file = "config/yosbr/config/debugify.json"
+hash = "c3b0a39030d7d2f63059b8b9c1aa70b101874830099e9b1244e8f03eb67c531d"
+
+[[files]]
+file = "config/yosbr/config/enhanced_bes.properties"
+hash = "f4c1ae50cfc3ab470c9b6ed8a58286e7439fb0a964cf355e29516502a0f1c72a"
+
+[[files]]
+file = "config/yosbr/config/entity_texture_features.json"
+hash = "0e4fd51b75206240aee8c56d02fb3a1612f8b5ec686eb12554ee0bd1a4810aa1"
+
+[[files]]
+file = "config/yosbr/config/entityculling.json"
+hash = "0c78e42bc9ee8629e05830c89b882382dfa24c772c9b5a16d91225e1c63b11ad"
+
+[[files]]
+file = "config/yosbr/config/exordium.json"
+hash = "20b7a23dd1e9e0adf1a869ee3e9ce96c5fc036b73666eb9bfd267f737854a846"
+
+[[files]]
+file = "config/yosbr/config/fabric/indigo-renderer.properties"
+hash = "f80e3d9845998323abd5f7ad80f7ad7ac9e7707161518c665191a18bbc6dabfb"
+
+[[files]]
+file = "config/yosbr/config/ferritecore.mixin.properties"
+hash = "647c97bf8ba08a082324b85ed87ae43356109953b4140fe57847cf7b97448ecd"
+
+[[files]]
+file = "config/yosbr/config/forcecloseloadingscreen.json"
+hash = "ab85b51df50fc88da375ff53bbdd7120c07df8c77fde8e9d9a837623e7767fcc"
+
+[[files]]
+file = "config/yosbr/config/fvt.properties"
+hash = "6683e8529d9f2aced11bf731c89fd74494d1653b5e5b3f37a0259aa40926ed6b"
+
+[[files]]
+file = "config/yosbr/config/graphutil.json"
+hash = "ac62d7284e4a3f3eee693e4b31af0dee3ce255646756ce1ddeaef4c83a97ece8"
+
+[[files]]
+file = "config/yosbr/config/immediatelyfast.json"
+hash = "d001d4dca47027dffb96288efa9748417e90fd809bd689b5cdbd3ae8ac589697"
+
+[[files]]
+file = "config/yosbr/config/indium-renderer.properties"
+hash = "84626c5b50601d625cdd7644bfdb8ab904750cc22d9ff604ceef618a7595c240"
+
+[[files]]
+file = "config/yosbr/config/iris.properties"
+hash = "a5b140343519a6db20314e7dbcb535b7ece2a0878704f32e3ed0d4fddf011383"
+
+[[files]]
+file = "config/yosbr/config/isxander-main-menu-credits.json"
+hash = "9fc9a70991770244fded0bbcbae34032eef4ab5437f9652daeecd845ac7badc1"
+
+[[files]]
+file = "config/yosbr/config/lambdynlights.toml"
+hash = "90cb263291dbfca0e1289d3e3e6162b06de948f8e7c071c5a2e1d18bdcd15b93"
+
+[[files]]
+file = "config/yosbr/config/lithium.properties"
+hash = "76765e8e5ff8e927d80beb0739aababcf36e7babfd94262f2afece256cc5cd2e"
+
+[[files]]
+file = "config/yosbr/config/midnightlib.json"
+hash = "6b52769b3358f87b591871a4444f3cef8124a9dced0da1755f18db2f47adf4f3"
+
+[[files]]
+file = "config/yosbr/config/modmenu.json"
+hash = "4ffe2675a38999bdf25b6d374dcc4a4fd6646df75978f3ba96483a411e895068"
+
+[[files]]
+file = "config/yosbr/config/moreculling.toml"
+hash = "d1fc9e1f4b9fa23b778d60e9b0057f744498a958dbad6aa793f14a6714f2116f"
+
+[[files]]
+file = "config/yosbr/config/mousewheelie.hjson"
+hash = "d276fb680145aa561af326818644bb1b1b2dcfa8188d89bad7842eed741270ba"
+
+[[files]]
+file = "config/yosbr/config/no_fog.json"
+hash = "df86b787420b6df24c210d79f5765be0f12e1463354a30d239a9ebf9d091f31d"
+
+[[files]]
+file = "config/yosbr/config/quick_elytra.config.properties"
+hash = "3bff0d005bdd20767dceebee7192e0d72eda8859428763b1f5170aa68da5437c"
+
+[[files]]
+file = "config/yosbr/config/replaymod.json"
+hash = "d39c44636e3da4e61cd899d3aaf5649b0ea152633886b8bb45f8a7536e18ca66"
+
+[[files]]
+file = "config/yosbr/config/rrp.properties"
+hash = "c1ce53b4c9a9644e4e6c74cc25c5c1ec85dd2c7cb1da6ee4eeda0b5377720475"
+
+[[files]]
+file = "config/yosbr/config/shulkerboxtooltip.json5"
+hash = "f0b87b003593591684a05548193777f03c1fdb3abf951faa46843270b5e977bb"
+
+[[files]]
+file = "config/yosbr/config/smoothboot.json"
+hash = "8e25c7d1b862b4f7106940f9f9df89210c6782b132d024bf6c25eabfeecb685a"
+
+[[files]]
+file = "config/yosbr/config/sodium-extra-options.json"
+hash = "52b8629f2ab5471dd73f06b8e4fc8477e667e8dff250765c9713b880cad3a8ba"
+
+[[files]]
+file = "config/yosbr/config/sodium-extra.properties"
+hash = "a2f1b47c1eaa119ab34727f1d43c2506cb3d7f17ba8fb4efb49e20c8e0b58e70"
+
+[[files]]
+file = "config/yosbr/config/sodium-mixins.properties"
+hash = "051558518a6f3350fadb1546346d937e7f78f69834a075bf91b59921f151cc26"
+
+[[files]]
+file = "config/yosbr/config/sodium-options.json"
+hash = "a096ef4072d63f49f5694d39b84a0a5294987c30f43d8f345623e3d889fbf1e8"
+
+[[files]]
+file = "config/yosbr/config/totemcounter.toml"
+hash = "cf6c13112826ea57bda34dbe26bb4de5344b5d814c95348e8c9e7fc39258b8b3"
+
+[[files]]
+file = "config/yosbr/config/tr7zwDonorSettings.json"
+hash = "b4f660488920eac2dffd3c2208d281e92e1444e6f9c7808461a2687347c787d5"
+
+[[files]]
+file = "config/yosbr/config/uglyscoreboardfix.conf"
+hash = "70db40d1204d3d21d0ae694fb23bf1ffe8e1a7ec59e6b299a9e901721a902555"
+
+[[files]]
+file = "config/yosbr/config/vmp.properties"
+hash = "8eb2a834a066038d73821f9eb9b5fd499c291252159b0daa5c057570c1d808c5"
+
+[[files]]
+file = "config/yosbr/config/voicechat/username-cache.json"
+hash = "00e3e8b2ec2c321d0e1878c488c90d02986c08d42e220624dc9015827aafec98"
+
+[[files]]
+file = "config/yosbr/config/voicechat/voicechat-client.properties"
+hash = "b3d41abc37d7f6f7f1920be0601169d929f3cde59e061eef69679e1ffea37ee6"
+
+[[files]]
+file = "config/yosbr/config/voicechat/voicechat-server.properties"
+hash = "4569ad37fbce85a846f2adc996094a458fa8ff1bce45037aaf57b0687346e81a"
+
+[[files]]
+file = "config/yosbr/config/waveycapes.json"
+hash = "85dc7413a4a336c060628fb6603b9d2c0e81550e0d5c7f02e5b2b3368824c574"
+
+[[files]]
+file = "config/yosbr/config/zoomify.json"
+hash = "8d61a625f65493f3e4f40f5e49cd0d5405b6e105b2d9c005950f78dbfb2095fa"
+
+[[files]]
+file = "config/yosbr/options.amecsapi.txt"
+hash = "a8e2d5e40c317ff9d12f5814a798a6569ecb419d959ec1a77f585255a903d091"
+
+[[files]]
+file = "config/yosbr/options.txt"
+hash = "564589224d5a46b01293755230243788e110a7aa7e050b004781449c3d92e254"
 
 [[files]]
 file = "mods/appleskin.pw.toml"
@@ -329,5 +549,5 @@ hash = "df9929f0a90f0c54a870ed182c0543ce579d07b84089d2fec6131917c53b5bab"
 metafile = true
 
 [[files]]
-file = "resourecepacks/§6Banana§eFault §7v0.1.0 §8[1.19.2].zip"
+file = "resourcepacks/§6Banana§eFault §7v0.1.0 §8[1.19.2].zip"
 hash = "fc8dd3a09b623c14625b49f109168d8bff4539e70d2ad50f50b97ac5e068dba2"
