@@ -6,7 +6,7 @@ hash = "dc57070fa742850fb8a17f7ad6dc0e8a713323e27e2cbaf82da59c2283e42731"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "c52bce685d5256ff885d1922f0dbc91a252497030d622d4f50ee73b9cd722b5b"
+hash = "2da08d1c3e7f103843ee094547b6872c938b9707ade128748a8e8d3f21c69fe7"
 
 [[files]]
 file = "config/yosbr/config/appleskin.json5"
@@ -159,30 +159,6 @@ hash = "c85e5ade25c35d0cff10cd02d70cd0a1a2032ed70e45d6e1c5c3eb542d62ba63"
 [[files]]
 file = "config/yosbr/config/no_fog.json"
 hash = "df86b787420b6df24c210d79f5765be0f12e1463354a30d239a9ebf9d091f31d"
-
-[[files]]
-file = "config/yosbr/config/physicsmod/physics_animations_client_config.json"
-hash = "d8a629b25da461374926b02b6649ed90154cb1bb6ab7e5208f519b5bcf29b08b"
-
-[[files]]
-file = "config/yosbr/config/physicsmod/physics_blocks_client_config.json"
-hash = "8101dc02eeefe487e7d3d5b3c67d97d2c61762a7fffc1ea2695416a14118ae16"
-
-[[files]]
-file = "config/yosbr/config/physicsmod/physics_client_config.json"
-hash = "7c4b52a4112098c0f949c9972bf38abb9fb633816a3e4a4b890ca09617c59a60"
-
-[[files]]
-file = "config/yosbr/config/physicsmod/physics_mobs_client_config.json"
-hash = "752775debf65550a6a11ae2cc27c6f5c649cb8ac833a496e5c222d484bc63c14"
-
-[[files]]
-file = "config/yosbr/config/physicsmod/physics_server_config.json"
-hash = "e6c1234596884339e56c93f3e52ae9b646c70bd245ca301775de4317a8f8928a"
-
-[[files]]
-file = "config/yosbr/config/physicsmod/physics_vines_client_config.json"
-hash = "477b33e521ef3cac0b2edf8cd18c2d560cdf29cf91e1c508891354492e2c2199"
 
 [[files]]
 file = "config/yosbr/config/quick_elytra.config.properties"
@@ -428,6 +404,11 @@ hash = "fb5467aad8f3042e73bc005bd7290cab31b4b620f2a7d38b04acc38ea89fd618"
 metafile = true
 
 [[files]]
+file = "mods/hold-that-chunk.pw.toml"
+hash = "8847ebb401a474d65b2ffd00a226356e94791db3f5cf98505beb227e74298884"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "1955a695f7ca2ecfc2a923d94897677ba0def8bd8532543f4d635a8498b4ec2d"
 metafile = true
@@ -444,7 +425,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "0bb13d0459be9af19faf40ea8e83b8bf29922b378dcbe9e430fc7de11d98dac3"
+hash = "02cef7560c9b885038b3cb2601581a057b9651ef82d0198e34aff1ae7be0d021"
 metafile = true
 
 [[files]]
@@ -618,21 +599,13 @@ hash = "df9929f0a90f0c54a870ed182c0543ce579d07b84089d2fec6131917c53b5bab"
 metafile = true
 
 [[files]]
-file = "resourcepacks/§6Banana§eFault §7v0.1.0 §8[1.19.2].zip"
-hash = "fc8dd3a09b623c14625b49f109168d8bff4539e70d2ad50f50b97ac5e068dba2"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r1.4.zip"
-hash = "592c12605d03c345e15698d6020a892c865f56b3bcb117bcc9e41358f7df6584"
-
-[[files]]
 file = "shaderpacks/ComplementaryReimagined_r1.4.zip.txt"
-hash = "9c37aa5d7f8fa8dd0137676d31adebb7f7ed2034b68ae44c1b63dfff0e7ce349"
+hash = "8104f3aa627e013fb2e3507d78385b30595fe13c2710b471f55f40347419963c"
 
 [[files]]
-file = "shaderpacks/SEUS_PTGI_HRR_3.zip"
-hash = "6bd4ee3489de276095022f9662d48fdd99318019079d3ee945eff0a9ab6f7d87"
+file = "shaderpacks/ComplementaryShaders_v4.7.1.zip.txt"
+hash = "12b9daed98e2c16529996842fdde998cb201025c53d6a7489884fbbcafab5f81"
 
 [[files]]
-file = "shaderpacks/Tea_V1.5.7.zip"
-hash = "483b61e26328a8a0f8409072ab0aa73f30bc66a0cbacd447622591b91fa452c6"
+file = "shaderpacks/§r§lAstra§4§lLex§r§l_(§4§lBSL§r§l_Edit)_By_LexBoosT_§4§lV70.0§r§l.zip.txt"
+hash = "5940dc35c1d8a4c886e3e986ff19a588f332113a9ea5abc496544a9544f4a78e"
