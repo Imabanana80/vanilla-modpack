@@ -6,7 +6,7 @@ hash = "dc57070fa742850fb8a17f7ad6dc0e8a713323e27e2cbaf82da59c2283e42731"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "2da08d1c3e7f103843ee094547b6872c938b9707ade128748a8e8d3f21c69fe7"
+hash = "059bcd0819011a941999e75f98d23d4dafe13d96f766cacd293f59b05500ff90"
 
 [[files]]
 file = "config/yosbr/config/appleskin.json5"
@@ -255,7 +255,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "808c30194a90fce3a57ba82e92333518f3a14a5fdb69c84b5fac247e46557632"
+hash = "a714c0d9b19e623a1ed9e130c446174a7eda24a7146afeb4e2d82498f8c8ea5c"
 metafile = true
 
 [[files]]
@@ -270,7 +270,7 @@ metafile = true
 
 [[files]]
 file = "mods/betterhurtcam.pw.toml"
-hash = "99a8ce09ba9ef4ad3e35a9924d24826ec5998e8e1a00f73e8a35df9c2e543798"
+hash = "eb741f7a68a315de7d699d6e6267004a479da3b32b260eb64b97ad039a57b569"
 metafile = true
 
 [[files]]
@@ -294,11 +294,6 @@ hash = "f551f7780b8d32345f7c4646137d1ed91fb7f24e3a61d998d6fc5b366f44b4a0"
 metafile = true
 
 [[files]]
-file = "mods/capes.pw.toml"
-hash = "eaba2f41f04c306118190beb2a2bf4a44263e0196a106b9c8a9bfddff038afab"
-metafile = true
-
-[[files]]
 file = "mods/cit-resewn.pw.toml"
 hash = "0da3b33d0d62fcaf24835fb432b8dd9be02e82897cd43fddc38fa81106203d37"
 metafile = true
@@ -316,6 +311,11 @@ metafile = true
 [[files]]
 file = "mods/continuity.pw.toml"
 hash = "3cbe3d523b39667928fcc34f71651b0e581e5c541dd5ecf17228464770466bc5"
+metafile = true
+
+[[files]]
+file = "mods/cosmetica.pw.toml"
+hash = "20ae85bb2d21f1bd5966ae43066954d9857fb0b2ee1dfc5cfa5e7022b8ce111f"
 metafile = true
 
 [[files]]
@@ -360,12 +360,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "c3539f5c0d32666566b8cae83d8ff5ea39d07e1b3a70a43f40aeb8f656f75d72"
+hash = "cdc7eee1590bd54a3011dd030d3567e2e417d7ef1af23d124190823370670e87"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "c985bc9064cc29094fdfd59a037baa1523778cc2a9e5665c3f1b6ca0efe6a543"
+hash = "0fe83c99b29c952f464c7bfba9cc86cc4f834bef7834821433fe23ce3dd230e6"
 metafile = true
 
 [[files]]
@@ -404,11 +404,6 @@ hash = "fb5467aad8f3042e73bc005bd7290cab31b4b620f2a7d38b04acc38ea89fd618"
 metafile = true
 
 [[files]]
-file = "mods/hold-that-chunk.pw.toml"
-hash = "8847ebb401a474d65b2ffd00a226356e94791db3f5cf98505beb227e74298884"
-metafile = true
-
-[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "1955a695f7ca2ecfc2a923d94897677ba0def8bd8532543f4d635a8498b4ec2d"
 metafile = true
@@ -425,7 +420,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "02cef7560c9b885038b3cb2601581a057b9651ef82d0198e34aff1ae7be0d021"
+hash = "c3abf99ceae59c52190eff3132d949073ef39594ce38a0e90a98eca835a0efc4"
 metafile = true
 
 [[files]]
@@ -470,7 +465,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "ad5006e0af565aa9e862112703e3867b291233a0ffcc56495387319d70ac402e"
+hash = "79e31e1697a4121696b9a1817ff75ebe58af1514f132cdc64522d4ca4e0cdd08"
 metafile = true
 
 [[files]]
@@ -489,18 +484,8 @@ hash = "d835fe1648f3b36c53c3091d36331c7c659fb6a3a11d03d940457d3e6688a6a0"
 metafile = true
 
 [[files]]
-file = "mods/playerhealthindicators.pw.toml"
-hash = "38034cfd89e460d31851ada1b1ec345ea430281d0cbd54767d1920f14a7167e8"
-metafile = true
-
-[[files]]
 file = "mods/quick-elytra.pw.toml"
 hash = "4316869a722c334adbb9ff8833078830a33c3552cdb7c4f2e253e3d6472bfcd5"
-metafile = true
-
-[[files]]
-file = "mods/recursiveresources.pw.toml"
-hash = "83b1695ad59a950475f21754bb86b14b5a0f6502cef508ca2904de85df578af1"
 metafile = true
 
 [[files]]
@@ -525,7 +510,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "d26fc59b8f6faba19e94a2586e88ec7666a6d8cdfb3056a52ae9c9469c77da45"
+hash = "c7099714e081561e8a2f2b29cf3b2a1e397bb5a7c8ce313f8fcd15316363e600"
 metafile = true
 
 [[files]]
@@ -575,7 +560,7 @@ metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "24d6f5ebd589f979a77dcce6be9a3e96e5b36c3e23ea1e20bb0a55736f78c898"
+hash = "0fca0fcd62697e3ec9ced16a6917c2eba2f5c0de612cd28a2be1c84c316901e5"
 metafile = true
 
 [[files]]
@@ -599,13 +584,21 @@ hash = "df9929f0a90f0c54a870ed182c0543ce579d07b84089d2fec6131917c53b5bab"
 metafile = true
 
 [[files]]
-file = "shaderpacks/ComplementaryReimagined_r1.4.zip.txt"
-hash = "8104f3aa627e013fb2e3507d78385b30595fe13c2710b471f55f40347419963c"
+file = "resourcepacks/§6Banana§eFault §7v1.2.0 §8[1.19.2].zip"
+hash = "5bd46a9d400faac31147a9105d3569ff066ecb5aee59fed51b93694194e3343d"
+
+[[files]]
+file = "resourcepacks/§6Banana§eOverlay §7v1.0.0 §8[1.19.2].zip"
+hash = "cd1477dc3ec6e2c4b3a9720982c38de59a1c88aff9de5f8f4e9c45fe03be93e1"
+
+[[files]]
+file = "resourcepacks/§6Camp§eFires+ §7v1.1.0 §8[1.19.2].zip"
+hash = "b17a7b57098c6d2524b056522c63ab5bff98da853c1a9b7dad498bc3f2bbb34f"
+
+[[files]]
+file = "servers.dat"
+hash = "6095f871908d1fd7eb77380f01d0df829741ce97af89612f710c412b7d3a5dd6"
 
 [[files]]
 file = "shaderpacks/ComplementaryShaders_v4.7.1.zip.txt"
 hash = "12b9daed98e2c16529996842fdde998cb201025c53d6a7489884fbbcafab5f81"
-
-[[files]]
-file = "shaderpacks/§r§lAstra§4§lLex§r§l_(§4§lBSL§r§l_Edit)_By_LexBoosT_§4§lV70.0§r§l.zip.txt"
-hash = "5940dc35c1d8a4c886e3e986ff19a588f332113a9ea5abc496544a9544f4a78e"
