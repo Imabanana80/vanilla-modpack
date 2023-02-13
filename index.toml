@@ -41,10 +41,6 @@ file = "config/yosbr/config/c2me.toml"
 hash = "5483f499da4cadc3228d9f4a8146d2348e85a160945bf821b8c0f57d4e76a6a4"
 
 [[files]]
-file = "config/yosbr/config/capes.json5"
-hash = "566c88938c1a9ad02bfcb8f0f6c80c477e888af0c968f3b44cd9f25565dd030d"
-
-[[files]]
 file = "config/yosbr/config/citresewn-defaults.json"
 hash = "0b333b0bf9a0e573fa14f81610a621b488d5277c9e8f8c6a4c81e6a6cb37e482"
 
@@ -89,12 +85,12 @@ file = "config/yosbr/config/fabric/indigo-renderer.properties"
 hash = "1f65ca2be5ba05c2c35acebdce1425b7d0ebc42c48e70c3d401ee3225c9b0857"
 
 [[files]]
-file = "config/yosbr/config/ferritecore.mixin.properties"
-hash = "647c97bf8ba08a082324b85ed87ae43356109953b4140fe57847cf7b97448ecd"
+file = "config/yosbr/config/fastload.properties"
+hash = "a6ace4cb005bc48ffb693a4ffeb6bc2d32bbe6baa0b6176b9e94e318934975f6"
 
 [[files]]
-file = "config/yosbr/config/forcecloseloadingscreen.json"
-hash = "ab85b51df50fc88da375ff53bbdd7120c07df8c77fde8e9d9a837623e7767fcc"
+file = "config/yosbr/config/ferritecore.mixin.properties"
+hash = "647c97bf8ba08a082324b85ed87ae43356109953b4140fe57847cf7b97448ecd"
 
 [[files]]
 file = "config/yosbr/config/fvt.properties"
@@ -376,6 +372,11 @@ metafile = true
 [[files]]
 file = "mods/fastanim.pw.toml"
 hash = "d2ef3acb67d8e9fc5cdbd614048c55b2b08f50d1405287357acb72897793b332"
+metafile = true
+
+[[files]]
+file = "mods/fastload.pw.toml"
+hash = "46a497398e476b0bbac4a1c9816da987be2a9afc2e62011d584963beef0ba45e"
 metafile = true
 
 [[files]]
