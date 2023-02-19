@@ -6,7 +6,7 @@ hash = "dc57070fa742850fb8a17f7ad6dc0e8a713323e27e2cbaf82da59c2283e42731"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "f6f070ee302ff30d48e33435026c761376df979739d7dcfe8b0470922a28b5a4"
+hash = "bf9217beb8bb2b46c8545151e8f96ec8ac995f09f3b9a955463bbecaa6ae1f6c"
 
 [[files]]
 file = "config/yosbr/config/appleskin.json5"
@@ -553,20 +553,20 @@ hash = "72214bf1c5210d1fd5d47f5fe354310ea7d7e1268eb48574c0655d6d4f4d5c42"
 metafile = true
 
 [[files]]
-file = "resourcepacks/§6Banana§eFault §7v1.2.2 §8[1.19.2].zip"
-hash = "db5a2877367e077f971d237e1504f995e3fbec98fdd8341efc3fa478afa633fb"
+file = "resourcepacks/§6Banana§eFault §7v2.0.0 §8[1.19.3].zip"
+hash = "eba4be341fc66d23ba19fb808192a65fd632546cf1c584554c7193d70f8ee31e"
 
 [[files]]
-file = "resourcepacks/§6Banana§eOverlay §7v1.0.0 §8[1.19.2].zip"
-hash = "cd1477dc3ec6e2c4b3a9720982c38de59a1c88aff9de5f8f4e9c45fe03be93e1"
+file = "resourcepacks/§6Banana§eOverlay §7v2.0.0 §8[1.19.3].zip"
+hash = "f3fef3dca097cb61e244f4bb90eb0ee32a26487d80dd843c3b22cab474989910"
 
 [[files]]
-file = "resourcepacks/§6Camp§eFires+ §7v1.1.0 §8[1.19.2].zip"
-hash = "b17a7b57098c6d2524b056522c63ab5bff98da853c1a9b7dad498bc3f2bbb34f"
+file = "resourcepacks/§6Camp§eFires+ §7v2.0.0 §8[1.19.3].zip"
+hash = "7f24f20738e92ba345eb9fba41f8b2681002eec08d2cc902efdedfdcfa3869fd"
 
 [[files]]
-file = "resourcepacks/§6Transparent§eGUI §7v1.0.0 §8[1.19.2].zip"
-hash = "b5b978907796b1b80d5e91fa4e64b1bfdee134ec5007b0ed616c03c0d0bd6204"
+file = "resourcepacks/§6Transparent§eGUI §7v2.0.0 §8[1.19.3].zip"
+hash = "ea8608a4bd2f036712c9cf2e67d93173b8e8789b73cf0a7a973de9d8d694dab5"
 
 [[files]]
 file = "servers.dat"
