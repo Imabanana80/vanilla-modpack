@@ -1,13 +1,13 @@
 name = "Flour's Various Tweaks"
-filename = "fvt-fabric-1.13.0-mc1.19.2.jar"
+filename = "fvt-fabric-1.14.0-mc1.19.3.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/TjrP0eTG/versions/Gs1mQQey/fvt-fabric-1.13.0-mc1.19.2.jar"
+url = "https://cdn.modrinth.com/data/TjrP0eTG/versions/96QFlzaZ/fvt-fabric-1.14.0-mc1.19.3.jar"
 hash-format = "sha1"
-hash = "dcfc5243b8b76f5ae48575433712b43c117cc2b7"
+hash = "116c9fc0c960106838dc38dc147ac0cd1f2f7801"
 
 [update]
 [update.modrinth]
 mod-id = "TjrP0eTG"
-version = "Gs1mQQey"
+version = "96QFlzaZ"
